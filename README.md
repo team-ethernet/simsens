@@ -9,11 +9,11 @@ This program requires Mosquitto. Guide to install Mosquitto here:
 [Mosquitto Install Guide](https://docs.google.com/document/d/1Khe4_ye1cqadoxIy8wCGL000WlB2URefgU0UtRU5O5A/edit?usp=sharing "Mosquitto Install Guide")
 
 ## Authors
-Anton Bothin  
-Erik Flink  
-Nelly Friman  
-Jacob Klasmark  
-Valter Lundegårdh  
-Isak Olsson  
-Andreas Sjödin  
-Carina Wickström  
+Erik Flink \
+Isak Olsson \
+Nelly Friman \
+Anton Bothin  \
+Andreas Sjödin \
+Jacob Klasmark  \
+Carina Wickström \
+Valter Lundegårdh 
