@@ -11,17 +11,10 @@ This program requires Mosquitto. Guide to install Mosquitto here:
 ## Authors
 
 Anton Bothin
-
 Erik Flink
-
 Nelly Friman
-
 Jacob Klasmark
-
 Valter Lundegårdh
-
 Isak Olsson
-
 Andreas Sjödin
-
 Carina Wickström
